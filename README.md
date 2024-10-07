@@ -7,4 +7,4 @@
 
 Nom2 et Nom3 ont travaillés ensemble sur le header/footer
 
-Lien du site : [https://projetdevwebs1.web.app/](https://github.io/ProjetDevWeb/index.html)
+Lien du site : [https://github.io/ProjetDevWeb/index.html](https://projetdevwebs1.web.app/)
